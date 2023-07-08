@@ -1,0 +1,938 @@
+<!doctype html>
+<html class="" hreflang="en">
+<head>
+  <meta charset="utf-8">
+<meta name="description" content="Run live sessions that are interactive and fun. And built for effective learning.">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta property="og:url" content="https://sanalabs.com/">
+<meta property="og:image" content="/img/social/social-meet.jpg">
+<meta property="og:title" content="Collaborative live learning | Sana Labs">
+<meta property="og:description" content="Run live sessions that are interactive and fun. And built for effective learning.">
+<meta name="pinterest" content="nopin" />
+<meta name="facebook-domain-verification" content="jaxx0rgw9dmu8xf1ttjaune6usshqb" />
+
+<link rel="preload" href="/fonts/SanaSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/SanaSans-Medium.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/SanaSans-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/SanaSans-RegularDisplay.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/SanaSans-MediumDisplay.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/SanaSans-BoldDisplay.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" href="img/base/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" href="/img/base/favicon.png" />
+<link rel="icon" href="img/base/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" href="/img/base/favicon.png" />
+<link href='https://d33wubrfki0l68.cloudfront.net/bundles/fd7aef6558478760f6f11762636f3c2173f3a05f.css' rel='stylesheet' type='text/css'/>
+
+
+
+
+
+
+<script>
+  (function(){var a=window.mutiny=window.mutiny||{};if(!window.mutiny.client){a.client={_queue:{}};var b=["identify","trackConversion"];var c=[].concat(b,["defaultOptOut","optOut","optIn"]);var d=function factory(c){return function(){for(var d=arguments.length,e=new Array(d),f=0;f<d;f++){e[f]=arguments[f]}a.client._queue[c]=a.client._queue[c]||[];if(b.includes(c)){return new Promise(function(b,d){a.client._queue[c].push({args:e,resolve:b,reject:d});setTimeout(d,500)})}else{a.client._queue[c].push({args:e})}}};c.forEach(function(b){a.client[b]=d(b)})}})();
+  </script>
+  <script data-cfasync="false" src="https://client-registry.mutinycdn.com/personalize/client/f0a92881177b1b97.js"></script>
+
+ 
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5882870.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KPSZMBG');</script>
+<!-- End Google Tag Manager -->
+
+<script>(function (c, p, d, u, id, i) {
+  id = ''; // Optional Custom ID for user in your system
+  u = 'https://tracking.g2crowd.com/attribution_tracking/conversions/' + c + '.js?p=' + encodeURI(p) + '&e=' + id;
+  i = document.createElement('script');
+  i.type = 'application/javascript';
+  i.async = true;
+  i.src = u;
+  d.getElementsByTagName('head')[0].appendChild(i);
+ }("1008556", document.location.href, document));</script>
+  <title>Collaborative live learning | Sana Labs</title>
+</head>
+<body class="">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPSZMBG"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <script async src="https://tag.clearbitscripts.com/v1/pk_c4594267a6fe0e7635d31b050a429ed2/tags.js"></script>
+  
+
+
+  <header id="myHeader" class="red-darker">
+    <div id="platform-backdrop" class="mega-backdrop"></div>
+    <div id="solutions-backdrop" class="mega-backdrop"></div>
+    <div id="resources-backdrop" class="mega-backdrop"></div>
+    <div class="header-wrap">
+        <a href="/" class="icon"><svg width="40" height="40" viewBox="0 0 40 40" class="svg-icon loading"  fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.5 13.7036V7.75H21V13.7036C23.9597 13.3345 26.25 10.8097 26.25 7.75C26.25 4.43629 23.5637 1.75 20.25 1.75C16.9363 1.75 14.25 4.43629 14.25 7.75C14.25 10.8097 16.5403 13.3345 19.5 13.7036Z"/>
+<path d="M14.2036 19C13.8345 16.0403 11.3097 13.75 8.25 13.75C4.93629 13.75 2.25 16.4363 2.25 19.75C2.25 23.0637 4.93629 25.75 8.25 25.75C11.3097 25.75 13.8345 23.4597 14.2036 20.5H8.25V19H14.2036Z"/>
+<path d="M19.5 25.7964C16.5403 26.1655 14.25 28.6903 14.25 31.75C14.25 35.0637 16.9363 37.75 20.25 37.75C23.5637 37.75 26.25 35.0637 26.25 31.75C26.25 28.6903 23.9597 26.1655 21 25.7964V31.75H19.5V25.7964Z"/>
+<path d="M26.2964 20.5C26.6655 23.4597 29.1903 25.75 32.25 25.75C35.5637 25.75 38.25 23.0637 38.25 19.75C38.25 16.4363 35.5637 13.75 32.25 13.75C29.1903 13.75 26.6655 16.0403 26.2964 19H32.25V20.5H26.2964Z"/>
+</svg></a>
+        <div class="nav-wrap">
+            <div class="header-nav">
+                <a href="/platform" class="nav-item item-1">Platform</a>
+                <a id="nav-solutions" class="nav-item item-1 hide-if-small">Solutions</a>
+                <a href="/about-us" class="nav-item item-5">About us</a>
+                <a href="/careers" class="nav-item item-5">Careers</a>
+                <a href="/events" class="nav-item item-5">Events</a>
+                <a href="/pricing" class="nav-item item-1">Pricing</a>
+                <a id="nav-resources" class="nav-item item-4 hide-if-small">Resources</a>
+                <a href="/resources" class="nav-item item-1 hide-if-big">Resources</a>
+                
+            </div>
+        </div>
+        <a href="/" class="wordmark">
+            <svg width="61" height="22" viewBox="0 0 61 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1.48036 5.75978C1.48036 2.40486 4.44525 0 8.60808 0C12.4714 0 15.8257 2.13765 16.0353 5.55196H13.2501C13.0405 3.29555 11.004 1.95951 8.48829 1.95951C5.76298 1.95951 4.08587 3.68151 4.08587 5.58165C4.08587 7.83806 6.00257 8.52092 9.74612 9.29285C14.7775 10.332 16.6942 12.2915 16.6942 15.6464C16.6942 19.5358 13.4597 22 8.96746 22C4.5351 22 1.03113 19.8327 0.761597 15.7652H3.57675C3.90618 18.5857 6.3919 20.0405 9.05731 20.0405C11.8725 20.0405 14.0587 18.3779 14.0587 15.7949C14.0587 13.1525 11.9024 12.4993 8.33855 11.6977C3.12752 10.5695 1.48036 8.78812 1.48036 5.75978Z" fill="currentColor"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9564 11.1336C18.2559 8.63968 20.3224 6.5614 23.8263 6.5614C27.5699 6.5614 29.6663 8.5803 29.6663 11.7274V21.5547H27.2404V19.6545C26.3719 21.1687 24.7547 22 22.6284 22C19.933 22 17.5971 20.4264 17.5971 17.695C17.5971 14.637 20.2026 12.7962 27.1207 12.6181V11.7274C27.1207 9.44129 25.8628 8.31309 23.8263 8.31309C21.7299 8.31309 20.6817 9.67881 20.532 11.1336H17.9564ZM20.1427 17.6059C20.1427 19.1498 21.4005 20.2483 23.1675 20.2483C25.4136 20.2483 27.1207 18.7341 27.1207 16.359V14.251C21.9995 14.3995 20.1427 15.587 20.1427 17.6059Z" fill="currentColor"/>
+                <path d="M38.8466 6.62078C36.7203 6.62078 35.133 7.63023 34.2945 9.17409V7.03644H31.8387V21.5547H34.4742V12.4993C34.4742 10.2726 36.0315 8.55061 38.068 8.55061C40.1045 8.55061 41.3024 9.79757 41.3024 12.4696V21.5547H43.9379V11.9946C43.9379 8.78812 42.1709 6.62078 38.8466 6.62078Z" fill="currentColor"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M45.7933 11.1336C46.0927 8.63968 48.1592 6.5614 51.6631 6.5614C55.4067 6.5614 57.5031 8.5803 57.5031 11.7274V21.5547H55.0773V19.6545C54.2088 21.1687 52.5915 22 50.4652 22C47.7699 22 45.4339 20.4264 45.4339 17.695C45.4339 14.637 48.0394 12.7962 54.9575 12.6181V11.7274C54.9575 9.44129 53.6996 8.31309 51.6631 8.31309C49.5668 8.31309 48.5186 9.67881 48.3688 11.1336H45.7933ZM47.9795 17.6059C47.9795 19.1498 49.2373 20.2483 51.0043 20.2483C53.2504 20.2483 54.9575 18.7341 54.9575 16.359V14.251C49.8363 14.3995 47.9795 15.587 47.9795 17.6059Z" fill="currentColor"/>
+                <path d="M55.8414 1.70992V1.36271H57.7382V1.70992H57.0065V3.8035H56.5731V1.70992H55.8414Z" fill="currentColor"/>
+                <path d="M58.6413 1.36271L59.2585 3.27065L59.8723 1.36271H60.5173V3.8035H60.0977V1.79242L59.4597 3.8035H59.0505L58.3986 1.79586V3.8035H57.9859V1.36271H58.6413Z" fill="currentColor"/>
+                </svg>
+                
+                </a>
+        <div id="togglemenu" class="menu-plus">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M11 0H9V9H0V11H9V20H11V11H20V9H11V0Z" fill="currentColor"/></svg>
+        </div>
+    </div>
+    <div id="platform-menu" class="mega-menu-wrapper">
+        <div class="mega-menu">
+            <div class="mega-menu-1">
+                <a href="/platform" class="p-16 fw-500">
+                    Platform overview <span class="fw-400">→</span>
+                </a>
+            </div>
+            <div class="mega-menu-2">
+                <a href="/platform/create" class="p-16 fw-500">
+                    Create <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 20rem; padding:.4rem 0;">
+                        Build engaging live and self-paced learning experiences in minutes.
+                    </span>
+                </a>
+                <a href="/platform/learn" class="p-16 fw-500">
+                    Learn <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 20rem; padding:.4rem 0;">
+                        Save employees time, increase engagement, and boost knowledge retention. 
+                    </span>
+                </a>
+            </div>
+            <div class="mega-menu-3">
+                <a href="/platform/live" class="p-16 fw-500">
+                    Live <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 20rem; padding:.4rem 0;">
+                        Sana simplifies and enhances live learning, Let groups explore ideas and test their knowledge.
+                    </span>
+                </a>
+                <a href="/platform/manage" class="p-16 fw-500">
+                    Manage <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 20rem; padding:.4rem 0;">
+                        Organize the chaos with smart automations and clarify the impact with intuitive analytics.
+                    </span>
+                </a>
+            </div>
+            <div class="mega-menu-4">
+                <div class="menu-box bg-purple-darker purple-pastel">
+                    <p class="p-16 fw-500">Summer update 2022</p>
+                    <p class="p-16 purple-light margin-s">
+                        Some of our favorite moments so far this year. And a sneak peek at what’s cooking in the Lab.
+                    </p>
+                    <a href="/summer-update-2022" class="btn small bg-purple-pastel purple-darker">Take a look</a>
+                </div>
+            </div>
+            <div class="mega-menu-bottom">
+                <a class="p-16 open-contact" style="margin-bottom: 0;">
+                    <img style="top:.13em; margin-right:.4rem; display:inline-block;" src="https://d33wubrfki0l68.cloudfront.net/cd6ed3853f044ad9cf0b59589df5c205bc7c02de/3781b/img/icons/16/calendar.svg">
+                    <span class="fw-500">Get started:</span>
+                    <span class="fw-400">Book an intro →</span>
+                </a>
+                <a href="/resources/leadership-principles-your-most-powerful-leadership-development-tool" class="p-16" style="margin-bottom: 0;">
+                    <img style="top:.13em; margin-right:.4rem; display:inline-block;" src="https://d33wubrfki0l68.cloudfront.net/08917114e65f41d2d4daf99f455c67ed3de50ee3/446da/img/icons/16/smart.svg">
+                    <span class="fw-500">Spotlight:</span>
+                    <span class="fw-400">Leadership principles →</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="solutions-menu" class="mega-menu-wrapper">
+        <div class="mega-menu">
+            <div class="mega-menu-1">
+                <a href="/use-cases/sana-for-customer-education" class="p-16 fw-500">
+                    Customer education <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        Scaling external training takes consumer-grade UX and enterprise-level admin. Sana gives you both under one roof.
+                    </span>
+                </a>
+                <a href="/use-cases/sana-for-compliance-training" class="p-16 fw-500">
+                    Compliance training <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        Compliance is more than risk management. Sana helps you turn your annual compliance programs into actual behavior change.
+                    </span>
+                </a>
+            </div>
+            <div class="mega-menu-2">
+                <a href="/use-cases/sana-for-employee-onboarding" class="p-16 fw-500">
+                    Employee onboarding <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        Create and organize an immersive onboarding program that’s unique for each hire and true to your unique culture.
+                    </span>
+                </a>
+                <a href="/use-cases/sana-for-leadership-development" class="p-16 fw-500">
+                    Leadership development <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 20rem; padding:.4rem 0;">
+                        Give all your leaders and managers the experience they deserve with Sana.
+                    </span>
+                </a>
+            </div>
+            <div class="mega-menu-3">
+                <a href="/use-cases/sana-for-sales-enablement" class="p-16 fw-500">
+                    Sales enablement <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        Give your modern sellers the tools they need to build skills, access knowledge, and coach each other to success.
+                    </span>
+                </a>
+                
+            </div>
+            <div class="mega-menu-4">
+                <div class="menu-box bg-purple-darker purple-pastel">
+                    <p class="p-16 fw-500">Upcoming events</p>
+                    <p class="p-16 purple-light margin-s">
+                        Discover how Sana is reimagining learning. Join one of our live sessions to experiencing it yourself
+                    </p>
+                    <a href="/events/" class="btn small bg-purple-pastel purple-darker">View all</a>
+                </div>
+            </div>
+            <div class="mega-menu-bottom">
+                <a class="p-16 open-contact" style="margin-bottom: 0;">
+                    <img style="top:.13em; margin-right:.4rem; display:inline-block;" src="https://d33wubrfki0l68.cloudfront.net/cd6ed3853f044ad9cf0b59589df5c205bc7c02de/3781b/img/icons/16/calendar.svg">
+                    <span class="fw-500">Get started:</span>
+                    <span class="fw-400">Book an intro →</span>
+                </a>
+                <a href="/resources/leadership-principles-your-most-powerful-leadership-development-tool" class="p-16" style="margin-bottom: 0;">
+                    <img style="top:.13em; margin-right:.4rem; display:inline-block;" src="https://d33wubrfki0l68.cloudfront.net/08917114e65f41d2d4daf99f455c67ed3de50ee3/446da/img/icons/16/smart.svg">
+                    <span class="fw-500">Spotlight:</span>
+                    <span class="fw-400">Leadership principles →</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="resources-menu" class="mega-menu-wrapper">
+        <div class="mega-menu">
+            <div class="mega-menu-1">
+                <a href="/resources/" class="p-16 fw-500">
+                    Resources overview <span class="fw-400">→</span>
+                </a>
+            </div>
+            <div class="mega-menu-2">
+                <a href="/resources/how-and-why-fast-moving-organizations-should-reimagine-e-learning" class="p-16 fw-500">
+                    Reimagine e-learning <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        How and why fast-moving organizations should reimagine e-learning
+                    </span>
+                </a>
+                <a href="/resources/extraordinary-onboarding" class="p-16 fw-500">
+                    Extraordinary onboarding <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 20rem; padding:.4rem 0;">
+                        Sana’s secrets to an unforgettable onboarding experience
+                    </span>
+                </a>
+            </div>
+            <div class="mega-menu-3">
+                <a href="/resources/your-ABC-guide-to-the-lms" class="p-16 fw-500">
+                    Your ABC guide to the LMS <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        Here are all the questions you should never be afraid to ask when understanding and choosing an LMS for the first time.
+                    </span>
+                </a>
+                <a href="/resources/leadership-principles-your-most-powerful-leadership-development-tool" class="p-16 fw-500">
+                    Leadership principles <span class="fw-400">→</span><br>
+                    <span class="small-text fw-400 grey-50" style="display:block; max-width: 28rem; padding:.4rem 0;">
+                        What Sana’s leadership principles are and why they matter and how to create and reinforce leadership principles within your organization
+                    </span>
+                </a>
+            </div>
+            <div class="mega-menu-4">
+                <div class="menu-box bg-purple-darker purple-pastel">
+                    <p class="p-16 fw-500">Upcoming events</p>
+                    <p class="p-16 purple-light margin-s">
+                        Discover how Sana is reimagining learning. Join one of our live sessions to experiencing it yourself
+                    </p>
+                    <a href="/events/" class="btn small bg-purple-pastel purple-darker">View all</a>
+                </div>
+            </div>
+            <div class="mega-menu-bottom">
+                <a class="p-16 open-contact" style="margin-bottom: 0;">
+                    <img style="top:.13em; margin-right:.4rem; display:inline-block;" src="https://d33wubrfki0l68.cloudfront.net/cd6ed3853f044ad9cf0b59589df5c205bc7c02de/3781b/img/icons/16/calendar.svg">
+                    <span class="fw-500">Get started:</span>
+                    <span class="fw-400">Book an intro →</span>
+                </a>
+                <a href="/new-in-sana" class="p-16" style="margin-bottom: 0;">
+                    <img style="top:.13em; margin-right:.4rem; display:inline-block;" src="https://d33wubrfki0l68.cloudfront.net/08917114e65f41d2d4daf99f455c67ed3de50ee3/446da/img/icons/16/smart.svg">
+                    <span class="fw-500">Spotlight:</span>
+                    <span class="fw-400">New in Sana →</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+  <div class="wrapper">
+    
+<section class="top show rounded-bottom bg-red-vivid red-darker">
+  <div class="wrap center-text">
+    <h1 class="super margin-xl ani a-1">
+      Where live learning comes to life
+    </h1>
+  </div>
+  <div class="wrap ani slow a-4">
+    <div class="margin-xl">
+      <img class="" src="https://d33wubrfki0l68.cloudfront.net/48fea21d72ba7f8c3e7b8b274db8982cf3be1f37/57042/img/platform/live/live-top-1.webp" laxxx-preset="driftRight-45">
+      <img class="live-top-2" style="max-width: auto;" src="https://d33wubrfki0l68.cloudfront.net/6d1d89138102d1d5cdd4af5eaa2eb9a57c534c97/fa86e/img/platform/live/live-top-2.webp" laxxx-preset="driftLeft-45">
+    </div>
+  </div>
+</section>
+<section class="top bg-white rounded-bottom" style="z-index: 21;">
+  <div class="wrap grid">
+    <div class="grid-2-12">
+      <h2 class="h3 margin-xl" style="max-width: 65rem;">
+        Sana simplifies and enhances live learning. Groups can explore ideas, test their knowledge, and build trust. And they can do it all without switching tabs.
+      </h2>
+    </div>
+  </div>
+  <div class="side-nav margin-xl">
+    <div class="swiper margin-l">
+      <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/e4c60428d3327febb9c756027f0d76ee9a2154a9/ac4cd/img/platform/live/lobby.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Lobby
+              </span><br>
+              Welcome and reconnect the group
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/d7fb322c7b4487c9b548be05be9a2a7b31c079c5/1326b/img/platform/live/question.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Questions
+              </span><br>
+              Keep everyone on their toes with a quick quiz
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/a25e1ffe66da1eac34156c0dbe6657200dbd1dee/07f4f/img/platform/live/poll.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Polls
+              </span><br>
+              Break the ice and gauge opinions easily
+            </p>          
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/cbbe2d954bb5db4498f7f4f1c7d12bc1e79d9ac7/2e061/img/platform/live/breakout.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Breakouts
+              </span><br>
+              Split the group randomly or based on poll results
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/60e16c3cf3cf61524ed1c6ffa403cd508e12ee17/e3cb7/img/platform/live/notepad.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Notepad
+              </span><br>
+              Let everyone think freely and build on each other’s ideas
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/2d70501ae98e24a605506adafba6b9bc5ed11882/8a983/img/platform/live/reflections.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Reflections
+              </span><br>
+              Empower everyone to share their perspectives
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/349eb40b3c2608fe8c6deb002012086f022f01a4/47701/img/platform/live/post-it.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Sticky notes
+              </span><br>
+              Keep the brainstorming casual
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/90cd0522f5b1ae63a9e44d5084d20edcd3190c5c/a68c2/img/platform/live/chat.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Chat
+              </span><br>
+              Start threads and react with emojis
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/a2313f18993a7066048733d5484248cd7be6d578/c9f3e/img/platform/live/blank.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Blank
+              </span><br>
+              Present anything from images to code snippets
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/cb66b329964b2baf67703aabd2911543a5b3a45b/8deed/img/platform/live/video.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Video
+              </span><br>
+              Stream seamlessly thanks to auto-mute
+            </p>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="swiper-slide-in">
+            <img class="margin-m" src="https://d33wubrfki0l68.cloudfront.net/c7128c7b0e996768e4ec14b252b195ce6d323863/a595a/img/platform/live/gallery.webp">
+            <p class="p-16 cap-width-m">
+              <span class="black fw-500">
+                Gallery
+              </span><br>
+              Collage and collect team memories
+            </p>
+          </div>
+        </div>
+
+        
+        
+      </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+    </div>
+  </div>
+</section>
+<section class="top bg-purple-darker purple-light rounded-bottom" style="z-index: 19;">
+  <div class="wrap grid">
+    <div class="grid-2-12">
+      <p class="h3 cap-width-l">Keep up the energy and engagement with interactive quizzes, chat threads, emoji reactions, and more. </p>
+    </div>
+    <div class="grid-1-13">
+      <div class="question bg-purple-darker">
+        <div class="mcq-wrap">
+          <div class="h5 margin-m">What’s the primary benefit of making live learning interactive?</div>
+          <div class="small-text fw-500 opacity-50 margin-s">Pick the best option</div>
+          <div class="margin-m">
+            <div class="mcq-alt incorrect">
+              Saves time
+              <div class="answer red-vivid">Incorrect</div>
+            </div>
+            <div class="mcq-alt correct">
+              Increases engagement
+              <div class="answer green-bright">Correct</div>
+            </div>
+            <div class="mcq-alt incorrect">
+              Easier to create
+              <div class="answer red-vivid">Incorrect</div>
+            </div>
+          </div>
+          <a class="btn mcq-reveil">Submit</a>
+          <a class="btn mcq-retry">Try again</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="top rounded-bottom bg-yellow-light yellow-darker" style="z-index: 18;">
+  <div class="wrap grid">
+    <div class="grid-2-12 margin-s">
+      <p class="h3 cap-width-l">Prep and host the perfect session by setting up everything in advance and seeing how the group is responding</p>
+    </div>
+  </div>
+  <div class="double-boxes">
+    <div class="double-box bg-yellow-light yellow-darker">
+      <div>
+        <p class="p center-text margin-l" style="max-width: 45rem;">
+          In-session insights help you deliver a more relevant experience by showing who’s raising a hand and responding to polls, and who might be falling behind. 
+        </p>
+      </div>
+      <div style="width:100%; position:relative; height: 0; padding-bottom: 75%;">
+        <img style="width: 60%; position: absolute; left: 20%;" src="https://d33wubrfki0l68.cloudfront.net/72f2899ac0a83619e43839887c15698071e725fc/3abdf/img/platform/live/l-2.webp" laxxx-preset="lazy-40">
+      </div>
+    </div>
+    <div class="double-box bg-yellow-light yellow-darker">
+      <div> 
+        <p class="p center-text margin-l" style="max-width: 30rem;">
+          Post-session insights summarize the group’s activity and help you follow up on key discussion points.
+        </p>
+      </div>
+      <div style="width:100%; position:relative; height: 0; padding-bottom: 75%;">
+        <img style="width: 90%; position: absolute; left: 5%;" src="https://d33wubrfki0l68.cloudfront.net/fb326ff56772245e3bb59f2d2803b86f5cc8bd28/9fa80/img/platform/live/l-1.webp" laxxx-preset="lazy-40">
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="top rounded-bottom bg-grey-5" style="z-index: 17;">
+  <div class="wrap grid">
+    <div class="grid-2-12">
+      <p class="h3 margin-xs" style="max-width: 55rem;">Create more immersive learning journeys by blending live collaborative sessions with personalized self-paced courses</p>
+    </div>
+    <div class="grid-1-13">
+        <div style="padding-bottom: 0; min-height: 25rem;" class="display-box bg-grey-5 black">
+          <video style="width: 100%; max-width: 150rem; margin:auto;" class="video margin-xxl" autoplay loop muted laxxx-preset="">
+            <source type="video/mp4" src="https://d33wubrfki0l68.cloudfront.net/920c3cde7e7dcd117ec5bc04af92d7f038cca8af/91678/video/path.mp4">
+          </video>
+        </div>
+    </div>
+  </div>
+  <div class="wrap grid">
+    <div class="grid-2-12 margin-l">
+      <div class="home-quote"">
+        <div laxxx-preset="lazy-50">
+          <img class="margin-s" src="https://d33wubrfki0l68.cloudfront.net/2567741d127cf852bf207907651c35cbfd1db756/807e9/img/partners/black/sveasolar-clean.svg">
+          <p class="h3 margin-s cap-width-m">
+            <span class="quote-start">“</span>Combining individual learning with collaborative learning is the winning way of doing things.”
+          </p>
+          <p class="p-16 opacity-50 margin-m">
+            Anna Klingborg<br>
+            Global Head of Learning & Development
+          </p>
+        </div>
+        <div id="open-svea-vid" class="testimonial-vid" style="background-image:url('/img/home/svea-testimonial.webp');">
+          <div class="testimonial-vid-desc">
+            <p class="p-16 fw-500 cap-width-xs">Enabling a sustainable <br>future through learning</p>
+            <p class="p-16 opacity-50">1:35</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="top rounded-bottom" style="z-index: 16;">
+  <div class="background-image" style="background-image:url(/img/platform/live/l-3.webp);"></div>
+  <div class="wrap grid">
+    <div class="grid-9-13">
+      <div style="height: 90vh; max-height: 70rem; display: flex; flex-direction: column; justify-content: flex-end;">
+        
+      </div>
+    </div>
+  </div>
+</section>
+<section class="top rounded-bottom bg-white" style="z-index: 15;">
+  <div class="wrap grid">
+    <div class="grid-2-4">
+      <p class="p-16 fw-500 margin-l">
+        Designed for everywhere <br>that learning happens
+      </p>
+    </div>
+    <div class="grid-5-13">
+      <div class="use-cases on-white margin-xl">
+        <div class="use-case">
+          <p class="p-16 fw-500">Company onboarding</p>
+          <p class="p-16">Reduce information overload with adaptive courses and increase employee engagement through interactive sessions.</p>
+        </div>
+        <div class="use-case">
+          <p class="p-16 fw-500">Daily standups</p>
+          <p class="p-16">Start the day right with an interactive check-in and energizer that brings the team together from wherever they are.</p>
+        </div>
+        <div class="use-case">
+          <p class="p-16 fw-500">Customer success enablement</p>
+          <p class="p-16">Make all your product info accessible and dynamic so that your reps spend less time closing tickets and more time upselling customers.</p>
+        </div>
+        <div class="use-case">
+          <p class="p-16 fw-500">Leadership academies</p>
+          <p class="p-16">Create a safe space for your leaders to learn how to build psychological safety, give and receive feedback, and encourage a growth mindset.</p>
+        </div>
+        <div class="use-case">
+          <p class="p-16 fw-500">Team retros</p>
+          <p class="p-16">Celebrate the sprint wins with emoji reactions and encourage more suggestions for improvement with reflection cards and polls.</p>
+        </div>
+        <div class="use-case">
+          <p class="p-16 fw-500">Upskilling initiatives</p>
+          <p class="p-16">Help teams support each other when learning a new skill by blending group sessions with solo study.</p>
+        </div>
+        <div class="use-case">
+          <p class="p-16 fw-500">Sales training</p>
+          <p class="p-16">Let everyone brush up on the latest specs, perfect their pitches, and hone their negotiation skills.</p>
+        </div>
+        <div class="use-case margin-l">
+          <p class="p-16 fw-500">Hybrid workshops</p>
+          <p class="p-16">Encourage everyone to share their ideas with ice-breakers, interactive notepads, and breakout rooms.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="link-boxes-3">
+    <div class="link-box white bg-black" onclick="location.href='/platform/create'">
+      <h3 class="h3 margin-xs">Create</h3>
+      <p class="p center-text margin-m">
+        Create engaging courses <br>
+        and trainings together
+      </p>
+      <img style=" width:100%; max-width: 34rem;" src="https://d33wubrfki0l68.cloudfront.net/63a064e2d3f85cbff88e429b0b595107e7cb3813/bd441/img/platform/create-bottom.webp">
+    </div>
+    <div class="link-box black bg-grey-5" onclick="location.href='/platform/learn'">
+      <h3 class="h3 margin-xs">Learn</h3>
+      <p class="p center-text margin-m">
+        Personalize courses and<br>
+        learning recommendations
+      </p>
+      <img style=" width:100%; max-width: 34rem;" src="https://d33wubrfki0l68.cloudfront.net/ca42e5b17b2f6c938ff6eca812273f11fdd2e30d/4ee0f/img/platform/learn-bottom.webp">
+    </div>
+    <!--
+    <div class="link-box white bg-red-vivid" onclick="location.href='/platform/live'">
+      <h3 class="h3 margin-xs">Live</h3>
+      <p class="p center-text margin-m">
+        Run live sessions that are<br>
+        built for effective learning
+      </p>
+      <img style=" width:100%; max-width: 34rem;" src="/img/platform/live-bottom.webp">
+    </div>
+    -->
+    <div class="link-box black bg-yellow-light" onclick="location.href='/platform/manage'">
+      <h3 class="h3 margin-xs">Manage</h3>
+      <p class="p center-text margin-m">
+        Automate and track your<br>
+        learning initiatives
+      </p>
+      <img style=" width:100%; max-width: 34rem;" src="https://d33wubrfki0l68.cloudfront.net/b6e349eef75df148548f29bcd48a6066b6702478/74236/img/platform/manage-bottom.webp">
+    </div>
+    
+  </div>
+</section>
+
+<div class="bg-red-vivid" id="cover">
+  <svg class="rotate" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6401 10.6715C19.2955 10.3549 21.3543 8.09524 21.3543 5.35469C21.3543 2.39737 18.9569 0 15.9996 0C13.0423 0 10.6449 2.39737 10.6449 5.35469C10.6449 8.11674 12.7362 10.3904 15.4217 10.6785V5.32261H16.6401V10.6715ZM21.3204 16.5769H26.6771V15.3584H21.3276C21.6445 12.7034 23.904 10.6449 26.6443 10.6449C29.6016 10.6449 31.999 13.0423 31.999 15.9996C31.999 18.9569 29.6016 21.3543 26.6443 21.3543C23.8821 21.3543 21.6083 19.2627 21.3204 16.5769ZM15.4217 21.3214V26.6131H16.6401V21.3286C19.2952 21.6454 21.3537 23.9049 21.3537 26.6453C21.3537 29.6026 18.9563 32 15.999 32C13.0417 32 10.6443 29.6026 10.6443 26.6453C10.6443 23.8831 12.7359 21.6093 15.4217 21.3214ZM10.6714 15.3584H5.38665V16.5769H10.6786C10.3907 19.2627 8.11697 21.3543 5.35468 21.3543C2.39737 21.3543 0 18.9569 0 15.9996C0 13.0423 2.39738 10.6449 5.35468 10.6449C8.09501 10.6449 10.3546 12.7034 10.6714 15.3584Z" 
+    fill="var(--red-darker)"/>
+  </svg>
+</div>
+
+  </div>
+  <footer>
+    <div class="wrap grid">
+        <div class="grid-1-5 margin-s hide-if-small">
+            <img style="height: 2.4rem;" src="https://d33wubrfki0l68.cloudfront.net/d6b1b56b43f2e4f9c7919ec786bb6aad98865f14/4cc68/img/base/wordmark.svg">
+        </div>
+        <div class="grid-5-13">
+            <div class="footer-content">
+                <div class="footer-box cap-width-m bg-grey-2">
+                    <p class="p-16 fw-500 margin-xs">
+                        The latest in learning: <br><span class="opacity-50 fw-400">Stay current with our newsletter</span>
+                    </p>
+                    <div class="send-form-newsletter-subscribe newsletter-box">
+                        <form class="inline" id="newsletter-subscribe" method="POST">
+                            <div class="form">
+                                <div class="inline-feild margin-s">
+                                    <input type="email" value="" class="feild true end" name="email" autocomplete="email" placeholder="Your work email">
+                                </div>
+                                <button type="submit" class="btn small bg-black white">Subscribe</button>
+                            </div>
+                        </form>
+                        <div class="message-sent">
+                            <p class="h5">Thank you for subscribing!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-box bg-purple-darker purple-pastel">
+                    <p class="p-16 fw-500">Meet Sana AI
+                    </p>
+                    <p class="p-16 purple-light margin-s">
+                        Trained on all your company’s knowledge, integrated with all your apps, Sana AI is the work assistant you’ve been waiting for.
+                    </p>
+                    <a href="/sana-ai" class="btn small bg-purple-pastel purple-darker">Learn more</a>
+                </div>
+            </div>
+            <div class="footer-menu margin-xl">
+                <div>
+                    <span class="p-16 fw-500">Platform</span><br>
+                    <a href="/platform" class="p-16">Overview</a><br>
+                    <a href="/platform/create" class="p-16">Create</a><br>
+                    <a href="/platform/learn" class="p-16">Learn</a><br>
+                    <a href="/platform/live" class="p-16">Live</a><br>
+                    <a href="/platform/manage" class="p-16">Manage</a><br>
+                    <a href="/new-in-sana" class="p-16">New in Sana</a><br>
+                </div>
+                <div>
+                    <span class="p-16 fw-500">Company</span><br>
+                    <a href="/about-us" class="p-16">About us</a><br>
+                    <a href="/careers" class="p-16">Careers</a><br>
+                    <a href="/events" class="p-16">Event calendar</a><br>
+                    <a href="/press" class="p-16">Press</a><br>
+                    <a href="/legal" class="p-16">Legal</a><br>
+                    
+                </div>
+                
+                <div>
+                    <span class="p-16 fw-500">Learn more</span><br>
+                    <a href="/pricing" class="p-16">Pricing</a><br>
+                    <a href="/resources" class="p-16">Resources</a><br>
+                    <a href="https://www.instagram.com/sanalabs/" class="p-16">Instagram</a><br>
+                    <a href="https://www.linkedin.com/company/sana-labs/" class="p-16">LinkedIn</a>
+                </div>
+
+                <div>
+                    <span class="p-16 fw-500">Use cases</span><br>
+                    <a href="/use-cases/sana-for-employee-onboarding" class="p-16">Employee onboarding</a><br>
+                    <a href="/use-cases/sana-for-leadership-development" class="p-16">Leadership development</a><br>
+                    <a href="/use-cases/sana-for-sales-enablement" class="p-16">Sales enablement</a><br>
+                    <a href="/use-cases/sana-for-compliance-training" class="p-16">Compliance training</a>
+                </div>
+            </div>
+            <p class="small-text grey-35">© Sana Labs AB 2023 </p>
+        </div>
+    </div>
+</footer>
+<div id="contact-popup" class="pop-up">
+    <div class="pop-up-backdrop close-popup"></div>
+    <div class="close-btn close-popup"></div>
+    <div class="book-dialouge fadeInFlip">
+      <div class="send-form send-form-book-demo-email only-border margin-m">
+        <form class="book-vgm" id="book-demo-email">
+            <div style="
+            margin: 0rem auto 1.6rem;
+            width: 6rem;
+            overflow: hidden;
+            height: 6rem;
+            border-radius: 50rem;
+            background-image: url(/img/partners/sophie.jpg);
+            background-size: cover;
+            background-position: center center;
+            ">
+            </div>
+            <h2 class="h3 fw-500 margin-xs">Schedule an <br>intro to Sana</h2>
+            <p class="p-16 margin-s">You’ll get to discuss your needs and learn more about the platform. Plans start at €7200/year.
+            </p>
+            <div class="inline-feild margin-m">
+                <input type="email" value="" class="feild end" name="email" autocomplete="email" placeholder="Work email">
+            </div>  
+            <div class="hubspot-form-error">
+              Please enter a valid work email</a>
+            </div>
+            <button type="submit" class="btn bg-blue-bright white left">Select time and date</button>
+        </form>
+        <div class="message-sent">
+          <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/mika-eberstein-lundberg/intro-to-sana?embed=true"></div>
+          <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
+        </div>
+      </div>
+    </div>
+</div>
+<div id="sana-ai-popup" class="pop-up">
+    <div class="pop-up-backdrop close-popup"></div>
+    <div class="close-btn close-popup"></div>
+    <div class="book-dialouge fadeInFlip">
+        <div class="send-form summit send-form-ai-waitlist"> 
+            <form class="book-vgm" id="ai-waitlist">
+                <input type="email" value="" class="feild end" name="email" autocomplete="email" placeholder="Work email">
+                <input type="text" value="" class="feild end" name="firstname" autocomplete="given-name" placeholder="First name">
+                <input type="text" value="" class="feild end" name="lastname" autocomplete="family-name" placeholder="Last name">
+                <input type="text" value="" class="feild end margin-xs" name="jobtitle" autocomplete="organization-title" placeholder="Job title">
+
+                <div class="sana-ai-waitlist-radio-group">
+                    <p>Team size</p>
+
+                    <input type="radio" id="team_size-100" name="team_size" value="<100" />
+                    <label for="team_size-100">&le;99</label>
+                    <div style="padding-bottom: 8px;"></div>
+
+                    <input type="radio" id="team_size-500" name="team_size" value="101-500" />
+                    <label for="team_size-500">100-499</label>
+                    <div style="padding-bottom: 8px;"></div>
+
+                    <input type="radio" id="team_size-2000" name="team_size" value="501-2000" />
+                    <label for="team_size-2000">500-1999</label>
+                    <div style="padding-bottom: 8px;"></div>
+
+                    <input type="radio" id="team_size-5000" name="team_size" value="2001-5000" />
+                    <label for="team_size-5000">2000-4999</label>
+                    <div style="padding-bottom: 8px;"></div>
+
+                    <input type="radio" id="team_size-max" name="team_size" value="5001+" />
+                    <label for="team_size-max">5000+</label>
+                </div>
+
+                <div class="sana-ai-waitlist-radio-group">
+                    <p>Corporate system</p>
+
+                    <input type="radio" id="corpsys-google" name="corporate_system" value="Google" />
+                    <label for="corpsys-google">Google</label>
+                    <div style="padding-bottom: 8px;"></div>
+                    
+                    <input type="radio" id="corpsys-microsoft" name="corporate_system" value="Microsoft" />
+                    <label for="corpsys-microsoft">Microsoft</label>
+                    <div style="padding-bottom: 8px;"></div>
+
+                    <input type="radio" id="corpsys-other" name="corporate_system" value="Other" />
+                    <label for="corpsys-other">Other</label>
+                </div>
+
+                <input type="text" value="" class="feild end margin-xs" name="tell_us_more_about_how_you_want_to_use_sana_ai" autocomplete="Use case" placeholder="Tell us more about how you want to use Sana AI">
+
+                <div class="hubspot-form-error">
+                    Please fill in all the required fields
+                </div>
+                
+                <button type="submit" class="btn-submit">Join the waitlist <span style="font-weight: 400;">→</span></button>
+            </form>
+            <div class="message-sent book-vgm">
+                <p style="padding:2.7rem  0;" class="h4 margin-double">That’s all we need for now.<br>
+                   <span class="opacity-50">We will keep you updated.</span></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="pro-popup" class="pop-up">
+    <div class="pop-up-backdrop close-popup"></div>
+    <div class="close-btn close-popup"></div>
+    <div class="book-dialouge fadeInFlip">
+      <div class="send-form send-form-book-demo-email-pro only-border margin-m">
+        <form class="book-vgm" id="book-demo-email-pro">
+            <div style="
+            margin: 0rem auto 1.6rem;
+            width: 6rem;
+            overflow: hidden;
+            height: 6rem;
+            border-radius: 50rem;
+            background-image: url(/img/partners/sophie.jpg);
+            background-size: cover;
+            background-position: center center;
+            ">
+            </div>
+            <h2 class="h3 fw-500 margin-m">Overview of <br>Sana Core</h2>
+            <div class="inline-feild margin-m">
+                <input type="email" value="" class="feild end" name="email" autocomplete="email" placeholder="Work email">
+            </div>  
+            <div class="hubspot-form-error">
+              Please enter a valid work email</a>
+            </div>
+            <button type="submit" class="btn bg-blue-bright white left">Select time and date</button>
+        </form>
+        <div class="message-sent">
+            <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/mika-eberstein-lundberg/sana-pro-henrik-mika?embed=true"></div>
+            <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
+        </div>
+    </div>
+    </div>
+</div>
+<div id="enterprise-popup" class="pop-up">
+    <div class="pop-up-backdrop close-popup"></div>
+    <div class="close-btn close-popup"></div>
+    <div class="book-dialouge fadeInFlip">
+      <div class="send-form send-form-book-demo-email-enterprise only-border margin-m">
+        <form class="book-vgm" id="book-demo-email-enterprise">
+            <div style="
+            margin: 0rem auto 1.6rem;
+            width: 6rem;
+            overflow: hidden;
+            height: 6rem;
+            border-radius: 50rem;
+            background-image: url(/img/partners/sophie.jpg);
+            background-size: cover;
+            background-position: center center;
+            ">
+            </div>
+            <h2 class="h3 fw-500 margin-m">Overview of <br>Sana Enterprise</h2>
+            <div class="inline-feild margin-m">
+                <input type="email" value="" class="feild end" name="email" autocomplete="email" placeholder="Work email">
+            </div>  
+            <div class="hubspot-form-error">
+              Please enter a valid work email</a>
+            </div>
+            <button type="submit" class="btn bg-blue-bright white left">Select time and date</button>
+        </form>
+        <div class="message-sent">
+            <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/mika-eberstein-lundberg/overview-sana-enterprise?embed=true"></div>
+            <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>
+        </div>
+    </div>
+    </div>
+</div>
+
+<style>
+    .sana-ai-waitlist-radio-group {
+        text-align: left;
+        border-bottom: 1px solid rgba(0,0,0,0.1);
+        margin-top: 16px;
+        padding-bottom: 16px;
+    }
+
+    .sana-ai-waitlist-radio-group p {
+        padding-bottom: 4px;
+    }
+
+    .sana-ai-waitlist-radio-group label {
+        color: #B2B2B2;
+    }
+
+    .sana-ai-waitlist-radio-group input:checked + label, .sana-ai-waitlist-radio-group label:hover {
+        color: #333;
+    }
+
+    .sana-ai-waitlist-radio-group [type="radio"]:checked + label:after {
+        top: 3px;
+        left: 3px;
+    }
+</style>
+
+  
+  <div id="cookie-consent" class="cookie">
+      <div class="cookie-inner center-text">
+          <p class="h3 margin-xs">🍪</p>
+          <p class="margin-m grey-50"><span class="black fw-500">We and selected partners use cookies</span> <br>or similar technologies as specified in the cookie policy. You can consent to the use of such technologies by closing this notice, by interacting with any link or button outside of this notice or by continuing to browse otherwise. <a href="/legal/cookie-settings" class="cookie-monster blue-bright fw-500">Learn more</a></p>
+          <a id="cookie-consent-button" class="bg-blue-bright white btn">Accept all</a>
+          <a id="cookie-reject-button" class="btn secondary">Reject</a>
+      </div>
+</div>
+  
+  <script src='https://d33wubrfki0l68.cloudfront.net/bundles/0f89ebc0c31b6fe4a09e2beb9348aeafb0fefa9b.js'></script>
+
+</body>
